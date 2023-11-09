@@ -50,8 +50,8 @@
             <img src="assets/images/logo-footer.svg" alt="" class="logo">
             <div class="contact">
                 <h3>CONTACT</h3>
-                <p >12 F., No. 957, Zhongzheng Rd.,Zhonghe Dist., NewTaipei City 235601, Taiwan (R.O.C.) </p>
-                <p >Frya@atms.com.tw</p>
+                <p >143/36/10 Binh Hung Hoa B street - Binh Tan - HCM city</p>
+                <p >Vietnam admin@ampm.vn</p>
             </div>
         </div>
     </footer>
