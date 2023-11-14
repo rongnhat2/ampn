@@ -50,8 +50,8 @@
             <img src="assets/images/logo-footer.svg" alt="" class="logo">
             <div class="contact">
                 <h3>CONTACT</h3>
-                <p >143/36/10 Binh Hung Hoa B street - Binh Tan - HCM city</p>
-                <p >Vietnam admin@ampm.vn</p>
+                <p >143/36/10 Binh Hung Hoa B street - Binh Tan - HCM city Vietnam</p>
+                <p >admin@ampm.vn</p>
             </div>
         </div>
     </footer>
