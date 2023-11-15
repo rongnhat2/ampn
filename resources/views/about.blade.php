@@ -14,7 +14,7 @@
             </div>
             <div class="wrapper">
                 <div class="about-wrapper">
-                    <h3 class="about-title">About</h3>
+                    <h3 class="about-title">About Us</h3>
                     <p class="about-description"> Established in 2013, AMPM sells electronic equipment, electronic components. We also provides OEM, ODM services for Viet Nam as long as global companies.</p>
                     <p class="about-description">We have strong knowledge about designing products in domain of industrial automation, automotive, telecommunication, power electronics.</p>
 
